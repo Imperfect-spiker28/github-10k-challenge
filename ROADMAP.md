@@ -3,7 +3,7 @@
 ## Workstreams (30 Target Repositories)
 - **Workstream A — New Software Products:** 12 repositories
 - **Workstream B — Developer Tools & Libraries:** 8 repositories
-- **Workstream C — Existing Project Improvements:** 6 repositories (`Geosentinal`, `Superhuman`, `MediaGuard`, `AI-Honeypot-System`, `QR`, `attendance_app`)
+- **Workstream C — Existing Project Improvements:** 5 repositories (`Geosentinal`, `MediaGuard`, `AI-Honeypot-System`, `QR`, `attendance_app`) — *(`Superhuman` & `Impact Lab` are STRICTLY PROTECTED / DO-NOT-TOUCH)*
 - **Workstream D — Open-Source Contributions:** 4 external projects
 
 ## Phase Schedule

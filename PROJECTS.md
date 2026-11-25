@@ -2,6 +2,10 @@
 
 Audited live on **2026-11-25**.
 
+## ⚠️ PROTECTED REPOSITORIES (STRICT DO-NOT-TOUCH)
+- `Superhuman` — **PROTECTED:** Never modify, commit, branch, open/close issues/PRs, change settings/metadata, archive, or read source code.
+- `Impact Lab` (any repo/folder identified as Impact Lab) — **PROTECTED:** Same strict do-not-touch rule.
+
 ## Existing Repositories (16 Total)
 
 | Repository | Visibility | Default Branch | Primary Language | Archived | Last Pushed | Status / Next Action |
@@ -22,3 +26,11 @@ Audited live on **2026-11-25**.
 | `AI-Honeypot-System` | Public | `main` | Python | No | 2026-03-07 | Flagship Cyber; add Docker CI & tests |
 | `CodeYukthi` | Public | `main` | JavaScript | **Yes** | 2026-01-27 | Archived |
 | `attendance_app` | Public | `main` | Dart | No | 2025-12-16 | Candidate for `AttendanceOS` upgrade (Dec 29) |
+
+## Challenge Repositories Created (`C:\Users\LOQ\Downloads\agent\repos\`)
+
+| Repository | Visibility | Default Branch | Release | Tests | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `github-10k-challenge` | Public | `main` | — | 3 audit scripts | Active Tracker |
+| `EnvDoctor` | Public | `main` | `v0.1.0` | 10/10 pytest | Released |
+| `JSONSmith` | Public | `main` | `v0.1.0` | 6/6 pytest | Released |
