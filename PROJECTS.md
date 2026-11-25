@@ -34,3 +34,5 @@ Audited live on **2026-11-25**.
 | `github-10k-challenge` | Public | `main` | — | 3 audit scripts | Active Tracker |
 | `EnvDoctor` | Public | `main` | `v0.1.0` | 10/10 pytest | Released |
 | `JSONSmith` | Public | `main` | `v0.1.0` | 6/6 pytest | Released |
+| `RequestLab` | Public | `main` | `v0.1.0` | 5/5 pytest | Released |
+| `PRGuard` | Public | `main` | `v0.1.0` | 4/4 pytest | Released |
