@@ -36,3 +36,4 @@ Audited live on **2026-11-25**.
 | `JSONSmith` | Public | `main` | `v0.1.0` | 6/6 pytest | Released |
 | `RequestLab` | Public | `main` | `v0.1.0` | 5/5 pytest | Released |
 | `PRGuard` | Public | `main` | `v0.1.0` | 4/4 pytest | Released |
+| `RegexLab` | Public | `main` | `v0.1.0` | 5/5 pytest | Released |
